@@ -1,0 +1,12 @@
+{
+  "remotes": [
+    {
+      "name": "origin",
+      "url": "https://github.com/user/repo"
+    },
+    {
+      "name": "upstream",
+      "url": "https://github.com/original/repo"
+    }
+  ]
+}
