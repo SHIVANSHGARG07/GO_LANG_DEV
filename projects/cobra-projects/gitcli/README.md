@@ -120,7 +120,7 @@ sudo mv gitcli /usr/local/bin/
 
 
 
-gitcli/
+ gitcli/
 ├── cmd/                    # CLI command definitions
 │   ├── root.go            # Root command & global flags
 │   ├── init.go            # Init command
